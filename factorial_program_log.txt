@@ -1,0 +1,18 @@
+2020-11-18 17:13:50,524 -  DEBUG -  Start of program
+2020-11-18 17:13:50,526 -  DEBUG -  Start of factorial(5%)
+2020-11-18 17:13:50,526 -  DEBUG -  i is 1, total is 1
+2020-11-18 17:13:50,526 -  DEBUG -  i is 2, total is 2
+2020-11-18 17:13:50,526 -  DEBUG -  i is 3, total is 6
+2020-11-18 17:13:50,526 -  DEBUG -  i is 4, total is 24
+2020-11-18 17:13:50,527 -  DEBUG -  i is 5, total is 120
+2020-11-18 17:13:50,527 -  DEBUG -  End of factorial(5%)
+2020-11-18 17:13:50,615 -  DEBUG -  End of program
+2020-11-18 17:14:00,685 -  DEBUG -  Start of program
+2020-11-18 17:14:00,687 -  DEBUG -  Start of factorial(5%)
+2020-11-18 17:14:00,689 -  DEBUG -  i is 1, total is 1
+2020-11-18 17:14:00,691 -  DEBUG -  i is 2, total is 2
+2020-11-18 17:14:00,692 -  DEBUG -  i is 3, total is 6
+2020-11-18 17:14:00,692 -  DEBUG -  i is 4, total is 24
+2020-11-18 17:14:00,692 -  DEBUG -  i is 5, total is 120
+2020-11-18 17:14:00,692 -  DEBUG -  End of factorial(5%)
+2020-11-18 17:14:00,749 -  DEBUG -  End of program
